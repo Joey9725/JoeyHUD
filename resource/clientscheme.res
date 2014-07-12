@@ -2394,7 +2394,218 @@ Scheme
 				"additive"	"0"
 			}
 		}
+		
+		CabinRegular12
+		{
+			"1"
+			{
+				"name"		"Cabin Regular"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		CabinRegular14
+		{
+			"1"
+			{
+				"name"		"Cabin Regular"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}		
 
+		CabinRegular16
+		{
+			"1"
+			{
+				"name"		"Cabin Regular"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+
+		CabinRegular18
+		{
+			"1"
+			{
+				"name"		"Cabin Regular"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+
+		CabinRegular20
+		{
+			"1"
+			{
+				"name"		"Cabin Regular"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+
+		CabinRegular22
+		{
+			"1"
+			{
+				"name"		"Cabin Regular"
+				"tall"		"22"
+				"antialias" "1"
+			}
+		}	
+
+		CabinRegular24
+		{
+			"1"
+			{
+				"name"		"Cabin Regular"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}		
+
+		CabinBold12
+		{
+			"1"
+			{
+				"name"		"Cabin Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		CabinBold14
+		{
+			"1"
+			{
+				"name"		"Cabin Bold"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		
+		CabinBold16
+		{
+			"1"
+			{
+				"name"		"Cabin Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+
+		CabinBold18
+		{
+			"1"
+			{
+				"name"		"Cabin Bold"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		
+		CabinBold20
+		{
+			"1"
+			{
+				"name"		"Cabin Bold"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+		
+		CabinBold22
+		{
+			"1"
+			{
+				"name"		"Cabin Bold"
+				"tall"		"22"
+				"antialias" "1"
+			}
+			
+		}
+		
+		CabinBold24
+		{
+			"1"
+			{
+				"name"		"Cabin Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		CabinItalic12
+		{
+			"1"
+			{
+				"name"		"Cabin Italic"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		CabinItalic14
+		{
+			"1"
+			{
+				"name"		"Cabin Italic"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		
+		CabinItalic16
+		{
+			"1"
+			{
+				"name"		"Cabin Italic"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		CabinItalic18
+		{
+			"1"
+			{
+				"name"		"Cabin Italic"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		
+		CabinItalic20
+		{
+			"1"
+			{
+				"name"		"Cabin Italic"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+		
+		CabinItalic22
+		{
+			"1"
+			{
+				"name"		"Cabin Italic"
+				"tall"		"22"
+				"antialias" "1"
+			}
+		}
+		
+		CabinItalic24
+		{
+			"1"
+			{
+				"name"		"Cabin Italic"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
 	}
 
 	//
@@ -4300,6 +4511,19 @@ Scheme
 			{
 				"range" "0x0000 0xFFFF"
 			}
-		}			
-	}
-}
+		}	
+		"7"
+		{
+			"font" "resource/Font/Cabin-Regular.ttf"
+			"name" "Cabin Regular"
+		}
+	}	"8"
+		{
+			"font" "resource/Font/Cabin-Bold.ttf"
+			"name" "Cabin Bold"
+		}
+		"9"
+		{
+			"font" "resource/Font/Cabin-Italic.ttf"
+			"name" "Cabin Italic"
+		}
