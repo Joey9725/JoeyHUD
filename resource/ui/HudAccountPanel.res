@@ -34,7 +34,7 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"MetalIcon"
-		"xpos"			"19"
+		"xpos"			"-1"
 		"ypos"			"145"
 		"zpos"			"1"
 		"wide"			"12"
@@ -49,7 +49,7 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"MetalIcon"
-		"xpos"			"20"
+		"xpos"			"0"
 		"ypos"			"146"
 		"zpos"			"1"
 		"wide"			"12"
@@ -64,7 +64,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AccountValue"
-		"xpos"			"20"
+		"xpos"			"0"
 		"ypos"			"140"
 		"zpos"			"2"
 		"wide"			"55"
@@ -84,7 +84,7 @@
 	{
 		"ControlName"	"CTFLabel"
 		"fieldName"		"AccountValue"
-		"xpos"			"21"
+		"xpos"			"1"
 		"ypos"			"141"
 		"zpos"			"2"
 		"wide"			"55"

@@ -8,8 +8,6 @@
 		"x_offset"		"40"
 		"xpos"			"r180"	[$WIN32]
 		"ypos"			"r22"	[$WIN32]
-		"xpos"			"r194"	[$X360]
-		"ypos"			"r124"	[$X360]
 		"wide"			"200"
 		"tall"			"50"
 		"MeterFG"		"White"
