@@ -17,11 +17,9 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"c90"	[$WIN32]
-		"ypos"	"r80"	[$WIN32]
-		"xpos"	"r131"	[$X360]
-		"ypos"	"r77"	[$X360]
+		"ypos"	"r86"	[$WIN32]
 		"wide"	"300"
-		"tall"	"120"
+		"tall"	"180"
 	}
 		
 	HudObjectiveStatus
