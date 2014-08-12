@@ -69,8 +69,6 @@
 		"fieldName"		"PlayerStatusClassImageBG"
 		"xpos"			"-10"		[$WIN32]
 		"ypos"			"r40"	[$WIN32]
-		"xpos"			"41"	[$X360]
-		"ypos"			"r82"	[$X360]
 		"zpos"			"1"		
 		"wide"			"100"
 		"tall"			"50"

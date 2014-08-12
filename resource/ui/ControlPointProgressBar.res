@@ -41,7 +41,7 @@
 		"tall"		"40"
 		"visible"	"1"
 		"enabled"	"1"
-		"scaleImage"	"1"
+		"scaleImage""1"
 		"icon"		"cappoint_progressbar_teardrop"
 		"iconColor"	"255 255 255 255"
 	}
@@ -93,7 +93,7 @@
 		"tall"		"31"
 		"visible"	"1"
 		"enabled"	"1"
-		"scaleImage"	"1"
+		"scaleImage""1"
 		"icon"		"cappoint_progressbar_blocked"
 		"iconColor"	"255 255 255 255"
 	}

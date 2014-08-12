@@ -2,7 +2,7 @@
 {
 	"itemmodelpanel"
 	{
-		"ControlName"		"CEmbeddedItemModelPanel"
+		"ControlName"	"CEmbeddedItemModelPanel"
 		"fieldName"		"itemmodelpanel"
 	
 		"xpos"			"0"
@@ -10,14 +10,14 @@
 		"zpos"			"1"		
 		"wide"			"100"
 		"tall"			"100"
-		"autoResize"		"0"
+		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"useparentbg"		"1"
+		"useparentbg"	"1"
 
 		"fov"			"54"
-		"start_framed"		"1"
+		"start_framed"	"1"
 
 		"disable_manipulation"	"1"
 
@@ -66,14 +66,14 @@
 		"zpos"			"1"
 		"wide"			"110"
 		"tall"			"24"
-		"autoResize"		"0"
+		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%disguisename%"
-		"textAlignment"		"North-West"
+		"textAlignment"	"North-West"
 		"dulltext"		"0"
-		"brighttext"		"0"
+		"brighttext"	"0"
 	}
 	
 	"WeaponNameLabel"
@@ -86,14 +86,14 @@
 		"zpos"			"1"
 		"wide"			"110"
 		"tall"			"24"
-		"autoResize"		"0"
+		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%weaponname%"
-		"textAlignment"		"North-West"
+		"textAlignment"	"North-West"
 		"dulltext"		"0"
-		"brighttext"		"0"
+		"brighttext"	"0"
 	}
 	
 	"SpectatorGUIHealth"
